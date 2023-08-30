@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "Buy groceries",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "text": "Call mom",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "text": "Do laundry",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "text": "Write a blog post",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "text": "Meet with client",
+    "completed": false
+  }
+]
